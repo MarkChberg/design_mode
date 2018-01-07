@@ -1,6 +1,6 @@
 package factorymethd.pattern;
 /** 工廠方法：定義一個創建對象的接口，讓子類決定實例化哪一個類
- *      Product                 Creator
+ *      Product                 AbstractCreator
  *         *                          *
  *         *                          *
  *         *                          *
